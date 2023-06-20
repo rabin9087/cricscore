@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.409fec84.css",
-    "main.js": "/static/js/main.af7f060f.js",
-    "index.html": "/index.html",
-    "main.409fec84.css.map": "/static/css/main.409fec84.css.map",
-    "main.af7f060f.js.map": "/static/js/main.af7f060f.js.map"
+    "main.css": "/cricscore/static/css/main.da5c8995.css",
+    "main.js": "/cricscore/static/js/main.fb997b4f.js",
+    "index.html": "/cricscore/index.html",
+    "main.da5c8995.css.map": "/cricscore/static/css/main.da5c8995.css.map",
+    "main.fb997b4f.js.map": "/cricscore/static/js/main.fb997b4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.409fec84.css",
-    "static/js/main.af7f060f.js"
+    "static/css/main.da5c8995.css",
+    "static/js/main.fb997b4f.js"
   ]
 }
